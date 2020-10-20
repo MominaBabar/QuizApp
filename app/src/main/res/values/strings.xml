@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">MyQuizApplication</string>
+    <string-array name="categories">
+        <item value="GeneralKnowlegde">General Knowlegde</item>
+        <item value="Maths">Maths</item>
+        <item value="Physic">Physics</item>
+        <item value="TVDramas">TV dramas</item>
+        <item value="Music">Music</item>
+    </string-array>
+
+    <string-array name="GeneralKnowledge">
+        <item>Islamabad is Capital of Pakistan.</item>
+        <item>true</item>
+        <item>Islamabad was made the capital of Pakistan on 14 august 1967.</item>
+        <item>Snakes are mammals.</item>
+        <item>false</item>
+        <item>Snakes are reptiles.</item>
+        <item>There are 30 days in March.</item>
+        <item>false</item>
+        <item>March has 31 days.</item>
+        <item>Pakistan is an agricultural country.</item>
+        <item>true</item>
+        <item>Pakistan has always been an agricultural country.</item>
+        <item>Karachi is located in Sindh.</item>
+        <item>true</item>
+        <item>Karachi is captial of Sindh.</item>
+
+    </string-array>
+    <string-array name="Maths">
+        <item>56 is a perfect square.</item>
+        <item>false</item>
+        <item>Square root of 56 does not result in natural number.</item>
+        <item>Real number set is bigger than Complex number set.</item>
+        <item>false</item>
+        <item>Real number set is subset of Complex numbers.All real numbers are complex numbers with complex part equal to 0.</item>
+        <item>Every number raised to power 0 is 1.</item>
+        <item>true</item>
+        <item>As it not multiplied even once so always answer is 0.</item>
+        <item>A circle has angle 360 degrees.</item>
+        <item>true</item>
+        <item>As two ends always meeet after 360 degrees.</item>
+        <item>Phythagoras theorem is valid for only right angled triangles.</item>
+        <item>Other Traingles do not have this property.</item>
+    </string-array>
+    <string-array name="Physics">
+        <item>Every action has a reaction.</item>
+        <item>true</item>
+        <item>This is Newtons Third law of motion.</item>
+        <item>Force produces acceleration.</item>
+        <item>true</item>
+        <item>This is Newtons second law of motion.</item>
+        <item>Convex lens is converging</item>
+        <item>false</item>
+        <item>Concave lens is convergisng. Convex is diverging.</item>
+        <item>Protons were discovered by Rutherford.</item>
+        <item>true</item>
+        <item>rutherford discovered protons with his gold foil experiment in 1886.</item>
+        <item>Neutrons have no charge</item>
+        <item>true</item>
+        <item>Neutrons are neutral particles.</item>
+    </string-array>
+    <string-array name="TVDramas">
+        <item>Game of Thrones has 8 seasons.</item>
+        <item>true</item>
+        <item>The show indeed has 8 seasons.</item>
+        <item>Friends was first broadcasted in 1994.</item>
+        <item>true</item>
+        <item>The show aired in 22 Sept 1994-May 6 2003</item>
+        <item>The role of Harvey Spectre was played by Patrick J. adams in _suits_.</item>
+        <item>false</item>
+        <item>It was played by Gabriel Matcht. Patrick played Ross.</item>
+        <item>In season 1 of Stranger Things, justin goes missing.</item>
+        <item>false</item>
+        <item>Will goes missing in the first season.</item>
+        <item>Brooke Davis marries Lucas Scott in One Tree Hill.</item>
+        <item>false</item>
+        <item>Brooke marries Julian. Lucas marries Peyton.</item>
+    </string-array>
+    <string-array name="Music">
+        <item>Micheal Jacksons first song was _The Girl Is Mine_.</item>
+        <item>The song was released in the Thriller album in 1982.</item>
+        <item>true</item>
+        <item>Freddie Mercurys real name is Farrokh Bulsara.</item>
+        <item>true</item>
+        <item>His Passport has Freddie Mercury as his name but he was born as Farrokh Bulsara.</item>
+        <item>_In the End_ is a song by Nsync.</item>
+        <item>false</item>
+        <item>This famous song is by Linkin Park.</item>
+        <item>A violin is made from more than 70 pieces of wood.</item>
+        <item>true</item>
+        <item>Yes, the instrument truly takes this much hard work to make.</item>
+        <item>_I Write the Songs_ was sung and written by Barry Manilow.</item>
+        <item>false</item>
+        <item>The song about writing his own songs was not written by the singer but by Bruce Johnston.</item>
+    </string-array>
+
+
+</resources>
